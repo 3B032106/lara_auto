@@ -3,7 +3,7 @@
     "description": "autoload classes",
     "autoload": {
         "psr-4": {
-            "Ncut\\LaraAuto\\": "src/"
+            "Demo\\": "src/Demo"
         }
     },
     "authors": [
